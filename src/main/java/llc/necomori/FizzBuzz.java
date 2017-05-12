@@ -1,4 +1,4 @@
-package llc.nekomori;
+package llc.necomori;
 
 public class FizzBuzz {
 	
